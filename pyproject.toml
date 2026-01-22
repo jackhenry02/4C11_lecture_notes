@@ -1,0 +1,12 @@
+[project]
+name = "4c11-lecture-notes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "~=3.11.0"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
+    "numpy<2",
+    "torch>=2.10.0",
+]
